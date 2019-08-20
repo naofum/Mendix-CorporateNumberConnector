@@ -17,5 +17,7 @@ This module gets CorporationNumber information in Japan.
 
 
 ## Version history
+- 2.0.0 Converted to Mx 8.0.0
+- 1.0.0 release
 - 0.0.1 first functions for Corporate number connector implemented
 
